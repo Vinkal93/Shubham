@@ -1,0 +1,42 @@
+.image{
+    height: 20px;
+    width: 20px;
+
+}
+.navbox{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 2px solid white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    box-shadow: 10px 10px 50px rgb(233, 233, 233);
+}
+.QR{
+  height: 120px;
+  width: 120px;
+  
+}
+#floaticon{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.225);
+    margin-top: 50%;
+    margin-left: 10px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    font-size: 20px;
+    box-shadow: 10px 10px 50px rgb(157, 157, 157);
+}
+.fa-gear:hover{
+    color: rgb(71, 71, 71);
+    font-size: 20px;
+    cursor: pointer;
+    
+}
